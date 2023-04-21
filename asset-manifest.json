@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/UseReducerPractices/static/css/main.073c9b0a.css",
+    "main.js": "/UseReducerPractices/static/js/main.ccbdea5b.js",
+    "index.html": "/UseReducerPractices/index.html",
+    "main.073c9b0a.css.map": "/UseReducerPractices/static/css/main.073c9b0a.css.map",
+    "main.ccbdea5b.js.map": "/UseReducerPractices/static/js/main.ccbdea5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ccbdea5b.js"
+  ]
+}
